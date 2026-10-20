@@ -25,3 +25,6 @@ outputs/**/*.png
 # Ignore temp dirs
 six/
 outputs/
+
+# Local virtual environments
+.venv/
